@@ -824,4 +824,11 @@ input[type="submit"]:hover {
     right: 2rem;
   }
 }
+@media screen and (max-width: 600px) {
+  .box {
+    width: 340px;
+    height: 180px;
+  }
+
+}
 /*End media queries*/
